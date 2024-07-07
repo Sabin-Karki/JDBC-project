@@ -4,7 +4,8 @@ Welcome to the JDBC Project repository! This repository contains Java applicatio
 
 ## Project Overview
 
-### Files and Classes
+
+## Bank Management System
 
 1. **BankDB.java**
    - This class handles the connection to the database. It includes methods to establish and close connections.
@@ -15,9 +16,12 @@ Welcome to the JDBC Project repository! This repository contains Java applicatio
 3. **bank.java**
    - Provides a menu for the customer, where they can create accounts, transfer funds, and perform other banking activities.
   
-   - 
-4. **Project.java**
+
+## Student Management System
+    
+ 1. **Project.java**
    - Main class for student management. It includes methods for adding, updating, and retrieving student information.
+     
 ## Getting Started
 
 ### Prerequisites
